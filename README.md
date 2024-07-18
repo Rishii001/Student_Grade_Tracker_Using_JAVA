@@ -1,0 +1,1 @@
+This is a program which is Capable to Find Student grade Of Student obtained Marks in Assignment/subject by using Java.Firstly You Input Student Marks which is Obtained.Then Find Average and then he gives Grade.
